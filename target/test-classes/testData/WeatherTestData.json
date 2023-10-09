@@ -1,0 +1,11 @@
+{
+  "latitude": "13.0836",
+  "longitude": "80.2825",
+  "resolvedAddress": "Chennai, TN, India",
+  "address": "Chennai",
+  "timezone": "Asia/Kolkata",
+  "tzoffset": "5.5",
+  "invalidresponse": "Bad API Request:Invalid location parameter value.",
+  "contentType": "application/json"
+
+}

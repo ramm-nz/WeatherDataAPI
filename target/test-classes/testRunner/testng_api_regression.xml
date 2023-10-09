@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Weather Data API Regression Suite" verbose="4">
+
+    <test name="Verify Weather Data">
+        <classes>
+            <class name="com.qa.weatherapi.tests.WeatherDataApiTest" />
+        </classes>
+    </test>
+</suite>
